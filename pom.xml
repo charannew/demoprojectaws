@@ -101,14 +101,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun kumar Releases Nexus Repository</name>
-	      <url>http://54.211.129.182:8081/repository/war-Release/</url>
+	      <name> Releases Nexus Repository</name>
+	      <url>http://3.86.76.102:8081/repository/war-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>kumar Snapshot Nexus Repository</name>
-	      <url>http://54.211.129.182:8081/repository/war-Snapshot/</url>
+	      <name>Snapshot Nexus Repository</name>
+	      <url>http://3.86.76.102:8081/repository/war-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
